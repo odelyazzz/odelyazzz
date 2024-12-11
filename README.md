@@ -5,7 +5,7 @@
 Frontend Developer from Russia 🇷🇺
 
 - :office: &nbsp;I'm currently working at **[ИТРУМ](https://itrum.ru/)**
-- :n: &nbsp;My Telegram channel **[Telegram](https://t.me/odelyazjs)**
+- :airplane: &nbsp;My Telegram channel **[Telegram](https://t.me/odelyazjs)**
 
 <br>
 
@@ -90,7 +90,7 @@ Frontend Developer from Russia 🇷🇺
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#odelyaz-stack">
-        <img src="[https://bestofjs.org/logos/puppeteer.svg](https://downloads.marketplace.jetbrains.com/files/19220/228602/icon/pluginIcon.png)" width="36" height="36" alt="vitest" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitest/vitest-original.svg" width="36" height="36" alt="vitest" />
       </a>
       <br>Vitest
     </td>
