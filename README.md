@@ -4,9 +4,6 @@
 
 Frontend Developer from Russia 🇷🇺
 
-- :office: &nbsp;I'm currently working at **[ИТРУМ](https://itrum.ru/)**
-- :airplane: &nbsp;My Telegram channel **[Telegram](https://t.me/odelyazjs)**
-
 <br>
 
 <h2 align="left" id="odelyaz-stack">🔥 Tech stack</h2>
